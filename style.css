@@ -1,0 +1,190 @@
+
+*{
+    margin: 0px;
+    font-family: 'inter';
+    
+   
+    
+}
+
+
+#titulo-menu-superior1{
+    text-align: center;
+    margin-top: 100px;
+    
+
+}
+
+#titulo-menu-superior2{
+text-align: left;
+font-size: 16px;
+margin-top: 15px;
+margin-left: 395px;
+font-weight: normal;
+
+}
+
+#menusuperior{
+
+    color: white;
+    background-color: #303030;
+    text-align: center;
+    padding: 25px ;
+    padding-bottom: 85px;
+}
+
+#section2{
+    display: grid;
+    grid-auto-flow: column;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#section3{
+    font-weight: normal;
+    display: grid;
+    grid-auto-flow: column;
+    text-align: center;
+    
+    padding-top: 5px;
+    color: blueviolet;
+
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px; /* Espaço entre os blocos */
+    background-color: #f9f9f9;
+    padding: 40px 20px;
+  }
+  
+  .info-box {
+    text-align: center;
+  }
+  
+  .number {
+    display: block;
+    font-size: 32px;
+    font-weight: bold;
+    color: #000;
+    text-align: left;
+  }
+  
+  .description {
+    display: block;
+    font-size: 14px;
+    color: #444;
+  }
+
+
+
+.container2{
+  display: flex;
+  background-color: white;
+}
+ 
+.child1{
+
+  width: 60%;
+  height: auto;
+ 
+
+}
+
+.child2{
+
+  width: 35%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 0;
+}
+
+
+#titulo{
+font-size: 32px;
+font-family: 'inter';
+text-align: center;
+color: black;
+padding-top: 25%;
+padding-bottom: 1%;
+padding-left: 10%;
+padding-right: 10px;
+
+}
+
+
+#texto{
+  padding-top: 0%;
+  padding-left: 20%;
+  padding-right: 10px;
+  text-align: justify;
+  font-size: 18px;
+  
+}
+
+
+#imagem {
+  width: 90%;
+  height: auto;
+  justify-content: center;
+}
+
+#formulario{
+text-align: center;
+background-color: #303030;
+
+
+
+}
+
+#titulo-formulario{
+  font-family: 'inter';
+  text-align: center;
+  color: #FFFFFF;
+  padding-top: 5%;
+  margin: 25px;
+  font-size: 32px;
+}
+
+input{
+    Width: 300px;
+    Height: 40px;
+    background-color: #FFFFFF;
+    margin: 21px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+
+
+}
+
+button{
+
+  background-color: #C07212;
+  width: 150px;
+  height: 45px;
+  border: 0px;
+  border-radius: 5px;
+  color: #FFFFFF;
+  margin-bottom: 50px;
+  font-family: 'inter';
+  font-size: 18px;
+  font-weight: bolder;
+  cursor: pointer;
+
+}
+
+button:hover{
+  background-color: #c07212cc;
+  width: 160px;
+  height: 55px;
+  transform: translateY(-10);
+  box-shadow: 0px 20px 20px #000;
+  transition: 0.5s;
+
+}
