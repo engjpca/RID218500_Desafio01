@@ -5,7 +5,7 @@ LINK PLANILHA GOOGLE SHEET: https://docs.google.com/spreadsheets/d/1KWSbI3XeaGIG
 LINK GIT HUB: https://github.com/engjpca/RID218500_Desafio01<br><br>
 
 LINK DESAFIO Landing page SITE HOSPEDADO: https://desafio-lpdnc.netlify.app/<br>
-LINK GIT HUB://github.com/engjpca/desafio-landing-page-dnc
+LINK GIT HUB: //github.com/engjpca/desafio-landing-page-dnc
 
 Observação: Ambos os projetos usam a mesma planilha como bae para salvar os dados.<br>
 Este código foi feito pensando em não ter custos para armazenamento das informações.<br>
